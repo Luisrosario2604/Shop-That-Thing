@@ -5,7 +5,7 @@ The goal of the project is to create a prototype of an automated store.
 ## Goals
 
 - Detection of objects taken
-- The camera must be managed by the webcam or an android phone
+- The camera must be managed by the webcam or an android phone (ip camera)
 - Price detection by machine learning (digits machine learning)
 - Color and shape detection
 
@@ -105,6 +105,7 @@ cd src/
 ./checkMultiSquare.py +[phone wifi ip]/video
 ```
 ![square](./gif/square.gif)
+
 ## Authors
 
-* **Luis Rosario** - *Initial work* - [Luisrosario](https://github.com/Luisrosario2604)
+* **Luis Rosario** - *Member 1* - [Luisrosario](https://github.com/Luisrosario2604)
