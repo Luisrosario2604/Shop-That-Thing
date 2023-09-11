@@ -13,18 +13,19 @@ The goal of the project is to create a prototype of an automated store.
 
 * Python 3.7+
 
-* gTTS >= 2.0.3
-* opencv_python >= 4.2.0.34
-* Keras >= 2.3.1
-* scikit_learn >= 0.24.1
-* numpy >= 1.18.1
-* sklearn >= 0.0
-* matplotlib >= 3.3.3
-* tensorflow >= 2.0.0
+* gTTS ~= 2.0.3
+* opencv_python ~= 4.2.0.34
+* Keras ~= 2.3.1
+* scikit_learn ~= 0.24.1
+* numpy ~= 1.18.1
+* sklearn ~= 0.0
+* matplotlib ~= 3.3.3
+* tensorflow ~= 2.0.0
+* protobuf==3.20.* (downgrade needed, old version)
 
 How to install all the requirements :
 ```bash
-sudo pip3 install -r requirements.txt
+pip3 install -r requirements.txt
 ```
 
 ## Usage
